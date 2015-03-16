@@ -1,0 +1,7 @@
+name: TeleportToSpawn
+version: 2.3
+author: Hydroxide
+main: me.Hydroxide.TeleportToSpawn.Main
+commands:
+  tpts:
+    description: Main TeleportToSpawn command.
